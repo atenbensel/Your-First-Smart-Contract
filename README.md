@@ -1,7 +1,7 @@
 # Your-First-Smart-Contract
 Source code for "Basics of Solidity &amp; Writing your First Smart Contract".
 
-View the YouTube tutorial here!
+View the YouTube tutorial here: https://www.youtube.com/watch?v=u78PIMjdozs
 
 # What you need
 
